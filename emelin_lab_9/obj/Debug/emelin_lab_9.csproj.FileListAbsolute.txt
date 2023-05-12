@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\bin\Debug\emelin_lab_9.exe.config
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\bin\Debug\emelin_lab_9.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\bin\Debug\emelin_lab_9.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.Form1.resources
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin9\emelin_lab_9\obj\Debug\emelin_lab_9.pdb
